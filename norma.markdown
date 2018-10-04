@@ -9,4 +9,4 @@ I am a Senior at Eastern Washington University, graduating Winter Quarter 2019. 
 
 ## My Links
 
-*[My Homepage]
+* [My Homepage]
