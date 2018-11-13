@@ -1,7 +1,7 @@
 ---
 title: Take Root
 date: 2018-10-04 18:35:00 Z
-Teaser Image: "/uploads/TakeRoot.jpg"
+Teaser Image: "/uploads/Screen%20Shot%202018-11-12%20at%204.29.46%20PM.png"
 ---
 
 # Take Root
