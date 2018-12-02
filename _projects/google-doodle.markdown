@@ -16,7 +16,7 @@ Created a Google Doodle using CSS only. Used the plug-in [animate.css](https://d
 |----------------------|-----------------------------------------|
 | Project:  | Google Doodle   |
 | Date:  | Spring 2018   |
-| Clien:t | Google  |
+| Client: | Google  |
 | Deliverables: | Functioning Google Doodle  |
 | Tools: | Codepen| Illustrator|animate.css  |
 | Methods: | Mood Board, Research, Prototype |
