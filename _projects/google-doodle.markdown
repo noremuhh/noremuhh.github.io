@@ -6,7 +6,7 @@ featured_image: "/uploads/Google%20Doodle.png"
 excerpt: Don't know Javascript? No biggie just animate using only CSS.
 ---
 
-/uploads/IMG_0149.TRIM.MOV
+![IMG_0149.TRIM.MOV](/uploads/IMG_0149.TRIM.MOV)
 
 ## CSS Animations
 
