@@ -8,4 +8,4 @@ excerpt: Don't know Javascript? No biggie just animate using only CSS.
 
 ![Google Doodle.png](/uploads/Google%20Doodle.png)
 
-Created a Google Doodle using CSS only. Used the plug-in animate.CSS by Jon Eden.
+Created a Google Doodle using CSS only. Used the plug-in [animate.css](https://daneden.github.io/animate.css/) by Jon Eden.
