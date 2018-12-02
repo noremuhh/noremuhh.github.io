@@ -12,3 +12,19 @@ excerpt: 'Partner graphics depicting the partnership with Spark Central in Spoka
 <img src="/uploads/Real-Time-100.jpg">
 <img src="/uploads/Generic-100.jpg">
 </div>
+
+## Spark Central
+
+From their [website:](https://spark-central.org/)
+
+**SPARK CENTRAL IS A 501(C)3 NONPROFIT THAT IGNITES THE CREATIVITY, INNOVATION, AND IMAGINATION NECESSARY FOR PEOPLE TO FORGE THE PATH TO THEIR BEST FUTURE.**
+
+We break down barriers to creativity like cost, confidence, and access by offering transformative programs, access to innovative technology, and a welcoming creative community for people of all economic backgrounds.
+
+## Partner Graphics
+
+Task at hand was to create three partner graphics and one generic partner graphic that fit the Spark Central [style](https://spark-central.org/playshops/). At first I had trouble coming up with graphics, but after doing some digging and researching on each partner I was able to design graphics that represented each organization well. 
+
+* Scablands Books - Sunflower graphics. Sunflowers were posted all over their [Facebook](https://www.facebook.com/pg/scablandsbooks/about/?ref=page_internal) page.
+
+* Laboratory Spokane - 
