@@ -6,9 +6,9 @@ excerpt: 'Partner graphics depicting the partnership with Spark Central in Spoka
   Wa. '
 ---
 
-<div class="gallery" data-columns="4">
-<img src="/images/demo/demo-portrait.jpg">
-<img src="/images/demo/demo-landscape.jpg">
-<img src="/images/demo/demo-square.jpg">
-<img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="">
+<img src="/uploads/Scablands-100.jpg">
+<img src="/uploads/Laboratory-100.jpg">
+<img src="/uploads/Real-Time-100.jpg">
+<img src="/uploads/Generic-100.jpg">
 </div>
