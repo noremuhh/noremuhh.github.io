@@ -13,11 +13,11 @@ excerpt: Don't know Javascript? No biggie just animate using only CSS.
 Created a Google Doodle using CSS only. Used the plug-in [animate.css](https://daneden.github.io/animate.css/) by Jon Eden to create this magical unicorn Google Doodle.
 
 | Project Metadata|
-|----------------------|-----------------------------------------|
+|----------------------|-------------|
 | Project:  | Google Doodle   |
 | Date:  | Spring 2018   |
 | Client: | Google  |
 | Deliverables: | Functioning Google Doodle  |
-| Tools: | Codepen| Illustrator|animate.css  |
+| Tools: | Codepen, Illustrator, animate.css  |
 | Methods: | Mood Board, Research, Prototype |
 | Status: | Concept  |
