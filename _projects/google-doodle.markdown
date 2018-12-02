@@ -6,3 +6,5 @@ featured_image: "/uploads/IMG_0149.TRIM.MOV"
 ---
 
 ![Google Doodle.png](/uploads/Google%20Doodle.png)
+
+Created a Google Doodle using CSS only. Used the plug-in animate.CSS by Jon Eden.
