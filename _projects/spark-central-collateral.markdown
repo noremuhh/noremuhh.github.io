@@ -25,8 +25,8 @@ We break down barriers to creativity like cost, confidence, and access by offeri
 
 Task at hand was to create three partner graphics and one generic partner graphic that fit the Spark Central [style](https://spark-central.org/playshops/). At first I had trouble coming up with graphics, but after doing some digging and researching on each partner I was able to design graphics that represented each organization well.
 
-*Scablands Books* - Sunflower graphics. Sunflowers were posted all over their [Facebook](https://www.facebook.com/pg/scablandsbooks/about/?ref=page_internal) page
+***Scablands Books*** - Sunflower graphics. Sunflowers were posted all over their [Facebook](https://www.facebook.com/pg/scablandsbooks/about/?ref=page_internal) page
 
-*Laboratory Spokane* - Spirograph graphic. This organization has an involvement with interactive art. Got the idea of a spirograph after seeing pictures of the art on their [Facebook](https://www.facebook.com/LaboratorySpokane/photos/a.477799072312307/956492271109649/?type=3&theater) page.
+***Laboratory Spokane*** - Spirograph graphic. This organization has an involvement with interactive art. Got the idea of a spirograph after seeing pictures of the art on their [Facebook](https://www.facebook.com/LaboratorySpokane/photos/a.477799072312307/956492271109649/?type=3&theater) page.
 
-*Real-Time Graphics Club *- Their logo. I used their logo as the graphic made some changes to the color of it and also added some coding images, since that is one of the things they do per their [Facebook ](https://www.facebook.com/Real-Time-Graphics-Club-1133237123489296/)page.
+***Real-Time Graphics Club** *- Their logo. I used their logo as the graphic made some changes to the color of it and also added some coding images, since that is one of the things they do per their [Facebook ](https://www.facebook.com/Real-Time-Graphics-Club-1133237123489296/)page.
