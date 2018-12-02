@@ -2,7 +2,7 @@
 title: Google Doodle
 date: 2018-12-02 05:14:00 Z
 subtitle: CSS Only
-featured_image: "/uploads/Google%20Doodle.png"
+featured_image: "/uploads/IMG_0149.TRIM.MOV"
 ---
 
-![IMG_0149.TRIM.MOV](/uploads/IMG_0149.TRIM.MOV)
+![Google Doodle.png](/uploads/Google%20Doodle.png)
