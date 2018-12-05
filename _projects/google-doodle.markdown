@@ -8,7 +8,7 @@ excerpt: Don't know Javascript? No biggie just animate using only CSS.
 
 ![IMG_0149.TRIM.MOV](/uploads/IMG_0149.TRIM.MOV)
 
-## CSS Animations
+### CSS Animations
 
 Created a Google Doodle using CSS only. Used the plug-in [animate.css](https://daneden.github.io/animate.css/) by Jon Eden to create this magical unicorn Google Doodle.
 
