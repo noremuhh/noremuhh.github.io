@@ -8,7 +8,7 @@ excerpt: We've all seen the moon, but have you ever been there?
 
 ![](/uploads/HOME%20PAGE.jpg)
 
-## What is SPACED?
+### What is SPACED?
 
 SPACED is a mock space travel company providing the  ultimate experience for outer space travel with feature destinations like the Moon, Mars, Earth, and Europa. One of their top features is their cheeky customer service and speed—they can get you anywhere safely in our universe within 1 day. Purpose? Design a website.
 
