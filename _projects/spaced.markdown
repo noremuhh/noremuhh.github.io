@@ -12,9 +12,9 @@ excerpt: We've all seen the moon, but have you ever been there?
 
 SPACED is a mock space travel company providing the  ultimate experience for outer space travel with feature destinations like the Moon, Mars, Earth, and Europa. One of their top features is their cheeky customer service and speed—they can get you anywhere safely in our universe within 1 day. Purpose? Design a website.
 
-<div class="gallery" data-columns="">
-<img src="/uploads/Scablands-100.jpg">
-<img src="/uploads/Laboratory-100.jpg">
-<img src="/uploads/Real-Time-100.jpg">
-<img src="/uploads/Generic-100.jpg">
+<div class="gallery" data-columns="2">
+<img src="/uploads/Spaced1.jpg">
+<img src="/uploads/Spaced2.jpg">
+<img src="/uploads/Spaced3.jpg">
+<img src="/uploads/Spaced4.jpg">
 </div>
