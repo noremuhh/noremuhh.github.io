@@ -7,3 +7,7 @@ excerpt: We've all seen the moon, but have you ever been there?
 ---
 
 ![](/images/uploads/HOME%20PAGE.jpg)
+
+## What is SPACED?
+
+A mock up company whose concept is to be able to allow people to travel from earth to space within 1 day. Purpose? Design a website where anyone can purchase tickets to go to space and back. 
