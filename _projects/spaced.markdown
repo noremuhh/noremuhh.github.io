@@ -6,7 +6,7 @@ featured_image: "/uploads/HOME%20PAGE.jpg"
 excerpt: We've all seen the moon, but have you ever been there?
 ---
 
-![](/images/uploads/HOME%20PAGE.jpg)
+![](/uploads/HOME%20PAGE.jpg)
 
 ## What is SPACED?
 
