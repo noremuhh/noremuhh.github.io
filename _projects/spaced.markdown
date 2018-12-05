@@ -10,4 +10,6 @@ excerpt: We've all seen the moon, but have you ever been there?
 
 ## What is SPACED?
 
-A mock up company whose concept is to be able to allow people to travel from earth to space within 1 day. Purpose? Design a website where anyone can purchase tickets to go to space and back. 
+SPACED is a mock space travel company providing the  ultimate experience for destinations like the Moon, Mars, Earth, and Europa.
+outer space travel with feature destinations like the Moon, Mars, Earth,
+and Europa. One of their top features is our cheeky customer service and speed—they can get you anywhere safely in our universe within 1 day. Purpose? Design a website.
