@@ -13,7 +13,7 @@ excerpt: 'Partner graphics depicting the partnership with Spark Central in Spoka
 <img src="/uploads/Generic-100.jpg">
 </div>
 
-## Spark Central
+### Spark Central
 
 From their [website:](https://spark-central.org/)
 
@@ -21,7 +21,7 @@ From their [website:](https://spark-central.org/)
 
 We break down barriers to creativity like cost, confidence, and access by offering transformative programs, access to innovative technology, and a welcoming creative community for people of all economic backgrounds.
 
-## Partner Graphics
+### Partner Graphics
 
 Task at hand was to create three partner graphics and one generic partner graphic that fit the Spark Central [style](https://spark-central.org/playshops/). At first I had trouble coming up with graphics, but after doing some digging and researching on each partner I was able to design graphics that represented each organization well.
 
