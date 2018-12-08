@@ -63,7 +63,7 @@
 	display: block;
 	font-size: $p-small;
 	font-weight: $bold-weight;
-	color: "white";
+	color: '$text-medium-color';
 
 	@include mq(tabletp) {
 		font-size: $p-medium;
