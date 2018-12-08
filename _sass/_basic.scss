@@ -226,8 +226,8 @@ a {
 	}
 
 	&:hover {
-		background: adjust-hue($accent-color,55%);
-		border-color: adjust-hue($accent-color,55%);
+		background: adjust-hue($accent-color,15%);
+		border-color: adjust-hue($accent-color,15%);
 		color: $background-color;
 	}
 
