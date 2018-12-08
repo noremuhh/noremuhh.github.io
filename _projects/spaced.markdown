@@ -33,7 +33,7 @@ of services would fall under each category. Sorted the cards out myself first to
 
 After prototype of the website was complete. I asked three people to test my website prototype. None of them knew before hand what SPACED was about. Created a script and just read along and screen recorded their responses to the tasks. 
 
-<p><a href="(https://medium.com/@kamacho_24/spaced-usability-test-1-ee90b47d5a5e)" class="button">View Testing</a>
+<a href="(https://medium.com/@kamacho_24/spaced-usability-test-1-ee90b47d5a5e)" class="button">View Testing</a>
 
 
 
