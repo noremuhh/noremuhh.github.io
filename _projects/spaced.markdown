@@ -47,6 +47,8 @@ After prototype of the website was complete. I asked three people to test my web
 <img src="/uploads/Spaced4.jpg">
 </div>
 
+<a href="https://invis.io/6TPIXNL4BKP#/295475501_HOME_PAGE" class="button">View Prototype</a>
+
 | Project Metadata|
 |------------------------|-------------|
 | Project:  | SPACED  |
