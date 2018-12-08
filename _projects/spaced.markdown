@@ -28,6 +28,7 @@ of services would fall under each category. Sorted the cards out myself first to
 
 ### Usability Testing
 After prototype of the website was complete. I asked three people to test my website prototype. None of them knew before hand what SPACED was about. Created a script and just read along and screen recorded their responses to the tasks. 
+<a href="https://medium.com/@kamacho_24/spaced-usability-test-1-ee90b47d5a5e" class="button">View Testing</a>
 
 
 ### Screen Design Examples
@@ -38,6 +39,7 @@ After prototype of the website was complete. I asked three people to test my web
 <img src="/uploads/Spaced3.jpg">
 <img src="/uploads/Spaced4.jpg">
 </div>
+<a href="https://invis.io/6TPIXNL4BKP#/295475501_HOME_PAGE" class="button">View Prototype</a>
 
 | Project Metadata|
 |------------------------|-------------|
