@@ -20,3 +20,13 @@ SPACED is a mock space travel company providing the  ultimate experience for out
 <img src="/uploads/Spaced3.jpg">
 <img src="/uploads/Spaced4.jpg">
 </div>
+
+| Project Metadata|
+|------------------------|-------------|
+| Project:  | SPACED  |
+| Date:  | Winter 2018   |
+| Client: | Dann Petty  |
+| Deliverables: | Website Design  |
+| Tools: | Sketch, InvisionApp |
+| Methods: | Research, Prototype, Client Brief |
+| Status: | Concept  |
