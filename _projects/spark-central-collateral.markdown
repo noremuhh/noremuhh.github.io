@@ -29,6 +29,8 @@ Task at hand was to create three partner graphics and one generic partner graphi
 >
 > *- Arthur Koestler*
 
+### Research
+
 ***Scablands Books*** - Sunflower graphics. Sunflowers were posted all over their [Facebook](https://www.facebook.com/pg/scablandsbooks/about/?ref=page_internal) page
 
 ***Laboratory Spokane*** - Spirograph graphic. This organization has an involvement with interactive art. Got the idea of a spirograph after seeing pictures of the art on their [Facebook](https://www.facebook.com/LaboratorySpokane/photos/a.477799072312307/956492271109649/?type=3&theater) page.
