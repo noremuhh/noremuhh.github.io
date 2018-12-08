@@ -22,9 +22,14 @@ Began researching many flight booking websites. I was trying to evaluate what wo
 
 Created categories for users to try to identify what types 
 of services would fall under each category. Sorted the cards out myself first to give me a visual to compare what I see vs. what they see.  This gave me an idea of what where a user might look on the screen when they are looking for something in particular on the website. 
+
+<div class="gallery" data-columns="2">
+<img src="/uploads/SiteMap1.png">
+<img src="/uploads/SiteMap2.png">
+</div>
+
+
 ### Screen Design Examples
-
-
 
 <div class="gallery" data-columns="2">
 <img src="/uploads/Spaced1.jpg">
