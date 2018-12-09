@@ -15,6 +15,8 @@ Created a Google Doodle using CSS only. Used the plug-in [animate.css](https://d
 ### Research
 I wanted to create a unicorn Google Doodle. I researched previous [Google Doodles](https://www.google.com/doodles) on the Google website to kind of get an idea of what I was going to create. I also researched anything that had to do with [unicorns](https://www.google.com/search?q=unicorns&source=lnms&tbm=isch&sa=X&ved=0ahUKEwipgNDqrJHfAhUEKH0KHbYWD4EQ_AUIDigB&biw=1020&bih=650). 
 
+<a href="https://364058fb691e488b8432b9016efea0b8.production.codepen.codes/" class="button">View Doodle</a>
+
 
 | Project Metadata|
 |------------------------|-------------|
