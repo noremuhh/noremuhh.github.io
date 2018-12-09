@@ -1,8 +1,7 @@
 ---
 title: Contact
-subtitle: 
+subtitle: Reach Out To Me
 description: 
-featured_image: 
 ---
 
 {% include contact-form.html %}
