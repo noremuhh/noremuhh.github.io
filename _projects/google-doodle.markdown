@@ -6,9 +6,7 @@ featured_image: "/uploads/Google%20Doodle.png"
 excerpt: Don't know Javascript? No biggie just animate using only CSS.
 ---
 
-<iframe src="/uploads/IMG_0149.TRIM.MOV></iframe>
-
-![IMG_0149.TRIM.MOV](/uploads/IMG_0149.TRIM.MOV)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JRUf5NFoxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CSS Animations
 
