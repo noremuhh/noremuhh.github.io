@@ -59,7 +59,7 @@
 	color: #d6a4a4;
 
 	&:hover {
-		color: $accent-color;
+		color: $text-dark-color;
 	}
 
 	@include mq(tabletp) {
