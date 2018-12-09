@@ -1,6 +1,7 @@
 ---
 title: Spark Central Collateral
 date: 2018-12-02 07:02:00 Z
+subtitle: Go anywhere from here.
 featured_image: "/uploads/SparkCentralCover.png"
 excerpt: 'Partner graphics depicting the partnership with Spark Central in Spokane,
   Wa. '
