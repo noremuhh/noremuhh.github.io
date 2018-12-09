@@ -2,7 +2,7 @@
 title: Contact
 subtitle: 
 description: 
-featured_image: "/images/demo/demo-landscape.jpg"
+featured_image: 
 ---
 
 {% include contact-form.html %}
