@@ -2,9 +2,6 @@
 title: Norma Camacho
 timezone: UTC
 collections:
-  pages:
-    title: Pages
-    output: true
   posts:
     title: Posts
     output: true
