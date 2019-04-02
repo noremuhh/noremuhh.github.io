@@ -5,7 +5,7 @@ categories:
 - Web Development
 subtitle: Graphics
 modal-id: 1
-image:
+img:
 - "/uploads/Scablands-100.jpg"
 - "/uploads/Real-Time-100.jpg"
 thumbnail: Scablands-100.jpg
