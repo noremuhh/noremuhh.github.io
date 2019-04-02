@@ -1,7 +1,4 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
-
-# Site settings
+---
 title: Norma Camacho
 timezone: UTC
 collections:
@@ -11,6 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: https://y7kim.github.io
+baseurl: "/agency-jekyll-theme/"
 site: Portfolio
 markdown: kramdown
 kramdown:
