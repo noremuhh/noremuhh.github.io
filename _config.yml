@@ -1,45 +1,15 @@
 ---
-title: Website
+title: Norma Camacho
 timezone: UTC
 collections:
-  pages:
-    title: Pages
-    output: true
-    permalink: "/:name"
   posts:
     title: Posts
     output: true
-  projects:
-    title: Projects
-    output: true
-    permalink: "/project/:slug"
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-- scope:
-    path: ''
-    type: projects
-  values:
-    layout: project
-    subtitle: 
-    featured_image: 
-    excerpt: 
-site: Web 3 Theme
+site: Portfolio
+baseurl: "/agency-jekyll-theme/"
 markdown: kramdown
 kramdown:
   input: GFM
