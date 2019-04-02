@@ -6,7 +6,7 @@ categories:
 subtitle: Graphics
 modal-id: 1
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: "/uploads/Scablands-100.jpg"
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
