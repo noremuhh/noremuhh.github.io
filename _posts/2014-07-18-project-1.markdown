@@ -5,7 +5,7 @@ categories:
 - Web Development
 subtitle: Graphics
 modal-id: 1
-img: Scablands-100.jpg
+img: Sparkcentral_Graphics.jpg
 thumbnail: Scablands-100.jpg
 description: |
   ### Spark Central
