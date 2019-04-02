@@ -8,6 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: https://y7kim.github.io
+baseurl: "/agency-jekyll-theme/"
 site: Portfolio
 markdown: kramdown
 kramdown:
