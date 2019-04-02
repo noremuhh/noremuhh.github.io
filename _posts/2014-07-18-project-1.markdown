@@ -7,7 +7,8 @@ subtitle: Graphics
 modal-id: 1
 img: Sparkcentral_Graphics.jpg
 thumbnail: Scablands-100.jpg
-description: "# Spark Central"
+description: Task at hand was to create three partner graphics and one generic partner
+  graphic that fit the Spark Central
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
