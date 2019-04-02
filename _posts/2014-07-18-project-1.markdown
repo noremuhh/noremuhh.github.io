@@ -12,7 +12,7 @@ thumbnail: Scablands-100.jpg
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
-description: 
+description: 1
 layout: default
 ---
 
