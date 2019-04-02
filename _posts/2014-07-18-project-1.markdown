@@ -3,6 +3,7 @@ title: Spark Central
 date: 2014-07-18 00:00:00 Z
 categories:
 - Web Development
+description: <img src="/uploads/Real-Time-100.jpg">
 subtitle: Graphics
 modal-id: 1
 img:
@@ -12,7 +13,6 @@ thumbnail: Scablands-100.jpg
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
-description: 2
 layout: default
 ---
 
