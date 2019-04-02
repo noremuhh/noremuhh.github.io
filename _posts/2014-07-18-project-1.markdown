@@ -5,8 +5,8 @@ categories:
 - Web Development
 subtitle: Graphics
 modal-id: 1
-img: dreams.png
-thumbnail: "/uploads/Scablands-100.jpg"
+img: Scablands-100.jpg
+thumbnail: Scablands-100.jpg
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
