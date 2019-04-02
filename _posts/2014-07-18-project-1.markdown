@@ -3,12 +3,10 @@ title: Spark Central
 date: 2014-07-18 00:00:00 Z
 categories:
 - Web Development
-description: <img src="/uploads/Real-Time-100.jpg">
+description: 
 subtitle: Graphics
 modal-id: 1
-img:
-- "/uploads/Scablands-100.jpg"
-- "/uploads/Real-Time-100.jpg"
+img: Sparkcentral_Graphics.jpg
 thumbnail: Scablands-100.jpg
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
