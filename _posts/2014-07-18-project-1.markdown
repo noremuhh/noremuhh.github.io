@@ -7,7 +7,7 @@ subtitle: Graphics
 modal-id: 1
 img: Sparkcentral_Graphics.jpg
 thumbnail: Scablands-100.jpg
-description: 
+description: "# Spark Central"
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
