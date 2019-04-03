@@ -19,4 +19,4 @@ twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 paginate: 3
-paginate_path: portfolio/page:num
+paginate_path: blog/page:num
