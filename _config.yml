@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: normasweb.link
+url: https://normasweb.link/
 baseurl: 
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
