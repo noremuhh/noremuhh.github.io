@@ -74,7 +74,7 @@ jQuery(document).foundation();
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'send.php',
+          url: 'https://formspree.io/normasweblink@outlook.com',
           data: $(form).serialize(),
           success: function(data) {
             if(data.match(/success/)) {
