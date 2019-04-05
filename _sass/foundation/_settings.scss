@@ -259,7 +259,7 @@ $h5-font-reduction: rem-calc(2);
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: none;
 // $anchor-font-color: $primary-color;
-// $anchor-font-color-hover: scale-color($anchor-font-color, $lightness: -14%);
+// $anchor-font-color-hover: scale-color($anchor-font-color, $lightness: -100%);
 
 // We use these to style the <hr> element
 // $hr-border-width: 1px;
@@ -687,7 +687,7 @@ $glowing-effect-color: none;
 
 // Select variables
 // $select-bg-color: $ghost;
-// $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%);
+// $select-hover-bg-color: scale-color($select-bg-color, $lightness: -100%);
 
 
 // 12. Icon Bar
@@ -1399,7 +1399,7 @@ $topbar-link-color-active: #e0517c;
 $topbar-link-color-active-hover: #e0517c;
 // $topbar-link-weight: $font-weight-normal;
 $topbar-link-font-size: rem-calc(14);
-// $topbar-link-hover-lightness: -10%; // Darken by 10%
+// $topbar-link-hover-lightness: -100%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
 $topbar-link-bg-hover: #e0517c;
 // $topbar-link-bg-color-hover: $pink;
