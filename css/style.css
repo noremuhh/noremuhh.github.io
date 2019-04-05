@@ -2911,10 +2911,10 @@ form input.error, form textarea.error {
   color: #999;
 }
 .modGallery .gallery-nav li.current {
-  border: 1px solid #F9CE06;
+  border: 1px solid #e0517c;
 }
 .modGallery .gallery-nav li.current a {
-  color: #F9CE06;
+  color: #e0517c;
 }
 .modGallery ul.gallery img {
   width: 100%;
@@ -3015,7 +3015,7 @@ form input.error, form textarea.error {
   margin: 0;
 }
 .modIconText .icon-text-circle:hover i {
-  color: #F9CE06;
+  color: #e0517c;
 }
 .modIconText .icon-text-simple i {
   font-size: 3.42857rem;
@@ -3048,10 +3048,10 @@ body {
   color: #999;
 }
 .modMasonryGallery .gallery-nav li.current {
-  border: 1px solid #F9CE06;
+  border: 1px solid #e0517c;
 }
 .modMasonryGallery .gallery-nav li.current a {
-  color: #F9CE06;
+  color: #e0517c;
 }
 .modMasonryGallery ul.gallery {
   margin: 0;
