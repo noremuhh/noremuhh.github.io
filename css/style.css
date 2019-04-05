@@ -2908,7 +2908,7 @@ form input.error, form textarea.error {
   margin-bottom: 0.5rem;
 }
 .modGallery .gallery-nav li a {
-  color: #999;
+  color: #e0517c;
 }
 .modGallery .gallery-nav li.current {
   border: 1px solid #e0517c;
@@ -3045,7 +3045,7 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #999;
+  color: #e0517c;
 }
 .modMasonryGallery .gallery-nav li.current {
   border: 1px solid #e0517c;
