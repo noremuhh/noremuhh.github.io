@@ -670,7 +670,7 @@ ul.shortcode-list {
   margin: 0 0 20px;
 }
 ul.shortcode-list i {
-  color: #F9CE06;
+  color: #e0517c;
   margin-right: 3px;
 }
 
@@ -1012,7 +1012,7 @@ ul.info i {
   transition: all 0.1s linear;
 }
 ul.info i:hover {
-  background: #F9CE06;
+  background: #e0517c;
   color: #fff;
 }
 
@@ -1053,7 +1053,7 @@ form input.error, form textarea.error {
   color: #999;
 }
 .pager a:hover {
-  color: #F9CE06;
+  color: #e0517c;
 }
 .pager .older {
   float: left;
