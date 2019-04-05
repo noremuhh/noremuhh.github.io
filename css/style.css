@@ -1192,7 +1192,7 @@ form input.error, form textarea.error {
 }
 .modBarGraph .bars p.highlighted {
   width: 0;
-  background: #F9CE06;
+  background: #e0517c;
   height: 12px;
 }
 
