@@ -44,3 +44,7 @@ Scenario: “You have booked your flight, but want to check the status of your f
 Task 3: Find Age Restrictions
 
 Scenario: “You want to make sure there aren’t any age restrictions in order to go into space, locate where you might find if there are age restrictions if any.”
+
+##### Results
+
+The testing itself lasted probably around 5 minutes total, thats excluding me having to explain what was going to be done. I expected him to be able to complete each task with ease, I had previously explained that it wasn’t an actual website, but more that he could click on the hotspots that were on the page to navigate. I didn’t expect him to actually try to input information on the the page. Which I had already inputted and thats when I had to explain to him, that the text couldn’t be changed, it was more of you can click on things. Maybe I should have explained it again before he started using the site.
