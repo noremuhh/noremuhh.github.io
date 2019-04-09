@@ -36,15 +36,12 @@ Cris is a 22 year old photographer, who currently does concert photography. He�
 ##### Tasks
 
 **Task 1: Book A Flight**
-
 Scenario: “You’ve always wanted to travel to space, and now you can with SPACED. Go through this website as if you are purchasing a ticket until you can get to the confirmation page.”
 
 **Task 2: Locate My Trips**
-
 Scenario: “You have booked your flight, but want to check the status of your flight, locate where you might find this information.”
 
 **Task 3: Find Age Restrictions**
-
 Scenario: “You want to make sure there aren’t any age restrictions in order to go into space, locate where you might find if there are age restrictions if any.”
 
 ##### Results
