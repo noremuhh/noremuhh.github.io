@@ -21,6 +21,6 @@ One of their top features is their cheeky customer service and speed—they can 
 
 I began researching many flight booking websites. I was trying to evaluate what worked and what didn't work in each website. I went through the process of trying to book a flight to capture the user experience one has when booking a flight.
 
-##### This is a small title
+#### Site Map
 
-Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate
+I created categories for users to try to identify what types of services would fall under each category. I sorted the cards out myself first in order to give me a visual to compare on what I see vs. what they see. This gave me an idea of what a user might look for on the screen when they are looking for something in particular on the website. 
