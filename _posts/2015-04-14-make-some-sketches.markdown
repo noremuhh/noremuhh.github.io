@@ -27,4 +27,8 @@ I created categories for users to try to identify what types of services would f
 
 #### Usability Testing
 
-After the prototype of the website was complete. I asked three people to test my website prototype. None of them knew before hand what SPACED was about. I created a script and just read along and screen recorded their responses to the tasks given to them.  
+After the prototype of the website was complete. I asked people to test my website prototype. None of them knew before hand what SPACED was about. I created a script and just read along and screen recorded their responses to the tasks given to them.
+
+##### Participant
+
+Cris is a 22 year old photographer, who currently does concert photography. He’s taken pictures for G-Eazy, Logic, Waka Flocka, Marc E. Bassy, and much more. Check out his work on Instagram: @visualsubject  
