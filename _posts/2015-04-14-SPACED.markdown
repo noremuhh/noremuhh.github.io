@@ -5,8 +5,8 @@ categories:
 - Logo
 - Development
 images:
-- images/@stock/blog-3.jpg
-- images/@stock/blog-2.jpg
+- "/uploads/Spaced_Usability%20Testing.png"
+- "/uploads/SiteMap2.png"
 excerpt: SPACED is a space travel company providing the  ultimate experience for outer
   space travel with feature destinations like the Moon, Mars, Earth, and Europa.
 layout: post
