@@ -1,35 +1,51 @@
 ---
-title: Make some sketches
-date: 2015-04-14 10:58:12 Z
+title: SPACED
+date: 2015-04-14 10:58:00 Z
 categories:
 - Logo
 - Development
-layout: post
 images:
 - images/@stock/blog-3.jpg
 - images/@stock/blog-2.jpg
 excerpt: Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo
   in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem
   eligendi rerum et quo ut. fuga qui ea voluptates sunt
+layout: post
 ---
 
-Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
+SPACED is a space travel company providing the  ultimate experience for outer space travel with feature destinations like the Moon, Mars, Earth, and Europa.
 
-Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
+One of their top features is their cheeky customer service and speed—they can get you anywhere safely in our universe within 1 day.
 
+#### Research
 
-Esse labore voluptate [nam dolorum veniam](#) numquam et reiciendis qui itaque voluptas odit dicta et. est ullam et omnis repellat qui aliquam delectus quod aperiam quam tenetur odit illo voluptatem. optio tenetur occaecati autem vel occaecati voluptas iste sunt libero quo est ex eum. aut molestiae ea est inventore aut quia ab voluptatem hic iste
+I began researching many flight booking websites. I was trying to evaluate what worked and what didn't work in each website. I went through the process of trying to book a flight to capture the user experience one has when booking a flight.
 
-> "Provident nihil sint ducimus quasi dignissimos vero esse quisquam Asperiores beatae facere eos corrupti ut autem natus quis cumque dolor."
+#### Site Map
 
-#### This is a sub-heading
+I created categories for users to try to identify what types of services would fall under each category. I sorted the cards out myself first in order to give me a visual to compare on what I see vs. what they see. This gave me an idea of what a user might look for on the screen when they are looking for something in particular on the website.
 
-Aut ea rem repudiandae tempore perferendis. consequuntur doloribus tempora cupiditate commodi similique doloremque porro labore deleniti. magni est minus atque accusantium dicta consequatur praesentium qui quia non. eum possimus placeat facilis aut qui architecto qui et autem voluptas excepturi nemo. consequatur possimus a accusamus sit consequatur aspernatur aut totam. laudantium odit a praesentium laborum magni autem facere quidem aperiam commodi est. dolore debitis doloremque ea impedit
+#### Usability Testing
 
-* Tempora commodi quia deserunt porro excepturi
-* Placeat in quae tempore pariatur sit aut qui nemo
-* Rem quod sequi nobis possimus sequi dolorem est ab
+After the prototype of the website was complete. I asked people to test my website prototype. None of them knew before hand what SPACED was about. I created a script and just read along and screen recorded their responses to the tasks given to them.
 
-##### This is a small title
+##### Participant
 
-Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate
+Cris is a 22 year old photographer, who currently does concert photography. He’s taken pictures for G-Eazy, Logic, Waka Flocka, Marc E. Bassy, and much more. Check out his work on Instagram: @visualsubject  
+
+##### Tasks
+
+**Task 1: Book A Flight**
+Scenario: “You’ve always wanted to travel to space, and now you can with SPACED. Go through this website as if you are purchasing a ticket until you can get to the confirmation page.”
+
+**Task 2: Locate My Trips**
+Scenario: “You have booked your flight, but want to check the status of your flight, locate where you might find this information.”
+
+**Task 3: Find Age Restrictions**
+Scenario: “You want to make sure there aren’t any age restrictions in order to go into space, locate where you might find if there are age restrictions if any.”
+
+##### Results
+
+The testing itself lasted probably around 5 minutes total, thats excluding me having to explain what was going to be done. I expected him to be able to complete each task with ease, I had previously explained that it wasn’t an actual website, but more that he could click on the hotspots that were on the page to navigate. I didn’t expect him to actually try to input information on the the page. Which I had already inputted and thats when I had to explain to him, that the text couldn’t be changed, it was more of you can click on things. Maybe I should have explained it again before he started using the site.
+
+[View Usability Testing Video](https://youtu.be/sxpfCFKkp-A)
