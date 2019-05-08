@@ -1486,7 +1486,7 @@ form input.error, form textarea.error {
   font-size: 2.5rem;
 }
 .modBlogPost.big h3 a {
-  color: #333;
+  color: #fc00ff;
 }
 .modBlogPost.big h3 a:hover {
   color: #f9ce06;
