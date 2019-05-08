@@ -2910,10 +2910,10 @@ form input.error, form textarea.error {
   color: #fff;
 }
 .modGallery .gallery-nav li.current {
-  border: 1px solid #e0517c;
+  border: 1px solid #00dbde;
 }
 .modGallery .gallery-nav li.current a {
-  color: #e0517c;
+  color: #00dbde;
 }
 .modGallery ul.gallery img {
   width: 100%;
