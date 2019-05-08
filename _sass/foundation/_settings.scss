@@ -99,7 +99,7 @@ $font-family-sans-serif: Raleway, "Helvetica Neue", Helvetica, Roboto, Arial, sa
 
 $white       : #FFFFFF;
 // $ghost       : #FAFAFA;
-// $snow        : #e0517c;
+// $snow        : #00dbde;
 // $vapor       : #F6F6F6;
 // $white-smoke : #F5F5F5;
 // $silver      : #EFEFEF;
@@ -111,9 +111,9 @@ $white       : #FFFFFF;
 // $jumbo       : #888888;
 // $monsoon     : #777777;
 // $steel       : #666666;
-// $charcoal    : #e0517c;
+// $charcoal    : #00dbde;
 // $tuatara     : #444444;
-// $oil         : #e0517c;
+// $oil         : #00dbde;
 $jet         : #fff;
 // $black       : #000000;
 
@@ -1393,7 +1393,7 @@ $topbar-height: rem-calc(100);
 // $topbar-title-font-size: rem-calc(17);
 
 // Set the link colors and styles for top-level nav
-$topbar-link-color: #e0517c;
+$topbar-link-color: #00dbde;
 $topbar-link-color-hover: #fff;
 $topbar-link-color-active: #fff;
 $topbar-link-color-active-hover: #fff;
@@ -1401,10 +1401,10 @@ $topbar-link-color-active-hover: #fff;
 $topbar-link-font-size: rem-calc(14);
 // $topbar-link-hover-lightness: -100%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
-$topbar-link-bg-hover: #e0517c;
+$topbar-link-bg-hover: #00dbde;
 // $topbar-link-bg-color-hover: $charcoal;
-$topbar-link-bg-active: #e0517c;
-$topbar-link-bg-active-hover: scale-color(#e0517c, $lightness: -100%);
+$topbar-link-bg-active: #00dbde;
+$topbar-link-bg-active-hover: scale-color(#00dbde, $lightness: -100%);
 // $topbar-link-font-family: $body-font-family;
 $topbar-link-text-transform: uppercase;
 $topbar-link-padding: ($topbar-height / 5);
@@ -1421,7 +1421,7 @@ $topbar-dropdown-link-color-hover: #fff;
 $topbar-dropdown-link-bg-hover: #444;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
-$topbar-dropdown-toggle-color: #e0517c;
+$topbar-dropdown-toggle-color: #00dbde;
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // $topbar-dropdown-label-color: $monsoon;
