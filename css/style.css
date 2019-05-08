@@ -1004,7 +1004,7 @@ ul.info a {
   margin-right: 5px;
 }
 ul.info i {
-  border: 1px solid #a18864;
+  border: 1px solid #fff;
   padding: 5px;
   -moz-transition: all 0.1s linear;
   -o-transition: all 0.1s linear;
@@ -2902,13 +2902,13 @@ form input.error, form textarea.error {
 .modGallery .gallery-nav li {
   float: none;
   display: inline-block;
-  border: 1px solid #a18864;
+  border: 1px solid #fff;
   padding: 5px 10px;
   margin-left: 0.5rem;
   margin-bottom: 0.5rem;
 }
 .modGallery .gallery-nav li a {
-  color: #a18864;
+  color: #fff;
 }
 .modGallery .gallery-nav li.current {
   border: 1px solid #e0517c;
