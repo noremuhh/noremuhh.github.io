@@ -617,7 +617,9 @@ a {
 a:hover {
   color: #999;
 }
-
+h2 {
+  color: #fff
+}
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   letter-spacing: 1px;
