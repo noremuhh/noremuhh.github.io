@@ -1167,7 +1167,7 @@ form input.error, form textarea.error {
 
 #footer.fullwidth p.copyright {
   padding-left: 30px;
-  float: center;
+  float: left;
   font-size: 1.28571rem;
 }
 #footer.fullwidth ul.socials {
@@ -1424,7 +1424,7 @@ form input.error, form textarea.error {
 
 .modBlogPost {
   margin-bottom: 40px;
-  background: #000;
+  background: #fff;
 }
 .modBlogPost .content {
   padding: 30px 20px;
@@ -1433,7 +1433,7 @@ form input.error, form textarea.error {
   color: #333;
 }
 .modBlogPost h4 a:hover {
-  color: #fff;
+  color: #f9ce06;
 }
 .modBlogPost .date {
   font-size: 0.78571rem;
@@ -1485,10 +1485,10 @@ form input.error, form textarea.error {
   font-size: 2.5rem;
 }
 .modBlogPost.big h3 a {
-  color: #00dbde;
+  color: #fc00ff;
 }
 .modBlogPost.big h3 a:hover {
-  color: #fff;
+  color: #f9ce06;
 }
 .modBlogPost.big h4 {
   font-size: 1.7rem;
