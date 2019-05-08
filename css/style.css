@@ -267,7 +267,7 @@
 .ui-state-focus,
 .ui-widget-content .ui-state-focus,
 .ui-widget-header .ui-state-focus {
-  border: 1px solid #e0517c/*{borderColorHover}*/;
+  border: 1px solid #00dbde/*{borderColorHover}*/;
   background: #dadada/*{bgColorHover}*/ url(images/ui-bg_glass_75_dadada_1x400.png)/*{bgImgUrlHover}*/ 50%/*{bgHoverXPos}*/ 50%/*{bgHoverYPos}*/ repeat-x/*{bgHoverRepeat}*/;
   font-weight: normal/*{fwDefault}*/;
   color: #212121/*{fcHover}*/;
@@ -608,7 +608,7 @@
 }
 /*some basic settings */
 a {
-  color: #e0517c;
+  color: #00dbde;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   -webkit-transition-duration: 0.3s;
@@ -669,7 +669,7 @@ ul.shortcode-list {
   margin: 0 0 20px;
 }
 ul.shortcode-list i {
-  color: #e0517c;
+  color: #00dbde;
   margin-right: 3px;
 }
 
@@ -778,8 +778,8 @@ ul.shortcode-list i {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  background: #e0517c;
-  border: 2px solid #e0517c;
+  background: #00dbde;
+  border: 2px solid #00dbde;
 }
 
 .button:hover {
@@ -1011,7 +1011,7 @@ ul.info i {
   transition: all 0.1s linear;
 }
 ul.info i:hover {
-  background: #e0517c;
+  background: #00dbde;
   color: #fff;
 }
 
@@ -1052,7 +1052,7 @@ form input.error, form textarea.error {
   color: #999;
 }
 .pager a:hover {
-  color: #e0517c;
+  color: #00dbde;
 }
 .pager .older {
   float: left;
@@ -3045,13 +3045,13 @@ body {
   margin-bottom: 0.5rem;
 }
 .modMasonryGallery .gallery-nav li a {
-  color: #e0517c;
+  color:#00dbde;
 }
 .modMasonryGallery .gallery-nav li.current {
-  border: 1px solid #e0517c;
+  border: 1px solid #00dbde;
 }
 .modMasonryGallery .gallery-nav li.current a {
-  color: #e0517c;
+  color: #00dbde;
 }
 .modMasonryGallery ul.gallery {
   margin: 0;
@@ -3244,7 +3244,7 @@ body {
   width: 66%;
   margin: 0 auto;
   height: 2px;
-  background: #e0517c;
+  background: #fff;
   display: block;
 }
 
@@ -3675,7 +3675,7 @@ body {
     background-color: rgba(0, 0, 0, 0.8);
   }
   .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {
-    color: #e0517c;
+    color: #00dbde;
     background: transparent;
   }
   .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
