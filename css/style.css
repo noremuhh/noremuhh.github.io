@@ -1166,8 +1166,8 @@ form input.error, form textarea.error {
 }
 
 #footer.fullwidth p.copyright {
-  padding-left: 30px;
-  float: center;
+  padding-left: 0px;
+  text-align: center;
   font-size: 1.28571rem;
 }
 #footer.fullwidth ul.socials {
