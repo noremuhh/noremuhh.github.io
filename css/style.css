@@ -2998,8 +2998,8 @@ form input.error, form textarea.error {
   font-size: 3.42857rem;
   width: 3.42857rem;
   height: 3.42857rem;
-  color: #333;
-  border: 3px solid #a18864;
+  color: #fff;
+  border: 3px solid #00dbde;
   display: inline-block;
   padding: 30px;
   -moz-border-radius: 50%;
@@ -3030,10 +3030,7 @@ form input.error, form textarea.error {
 }
 body {
   overflow-y: scroll;
-  background: #fc00ff;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
+  background: black;
 }
 
 .modMasonryGallery .gallery-nav {
